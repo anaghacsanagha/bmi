@@ -1,0 +1,41 @@
+* {
+  margin-top: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.bmi {
+  margin-left: 0;
+  padding: 5px;
+  width: 400px;
+  padding: 40px;
+  background: rgb(111, 32, 32);
+  border-radius: 20px;
+  box-shadow: 0 20px 30px rgb(37, 4, 4);
+}
+
+#a {
+  font-family: cursive;
+  font-size: 40px;
+  margin-left: 100px;
+  color: rgb(111, 32, 32);
+}
+
+#b {
+  color: aliceblue;
+}
+
+.bmimg {
+  width: 700px;
+}
